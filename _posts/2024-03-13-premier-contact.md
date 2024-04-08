@@ -4,14 +4,13 @@ Voilà comment tout a commencé.
 
 Le 11 mars 2024 peu après mon anniversaire, je tombe sur une annonce sur le bon coin. L'annonce me plait.
 
-![IMG_7427.jpg]({{site.baseurl}}/images/IMG_7427.jpg)
+<img src="{{site.baseurl}}/images/IMG_7427.jpg" class="img-fluid" />
 
 ## Premiers contacts
 
 Le lendemain, je contacte le propriétaire par leboncoin.
 
-![premier_message_leboncoin.png]({{site.baseurl}}/images/premier_message_leboncoin.png)
-
+<img src="{{site.baseurl}}/images/premier_message_leboncoin.png" class="img-fluid" />
 
 Il parvient à me laisser son numéro de téléphone et nous continuons à discuter via WhatsApp. Le courant passe bien.
 
