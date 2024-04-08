@@ -1,3 +1,6 @@
+---
+background: /images/53590804376_da3c3d6f21_o.jpg
+---
 Voilà comment tout a commencé.
 
 ## Une annonce sur leboncoin
