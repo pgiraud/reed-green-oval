@@ -4,7 +4,7 @@ Voilà comment tout a commencé.
 
 Le 11 mars 2024 peu après mon anniversaire, je tombe sur une annonce sur le bon coin. L'annonce me plait.
 
-![](https://www.flickr.com/gp/pierregiraud/xSMG3knbe1)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pierregiraud/53640045089/" title="IMG_7427"><img src="https://live.staticflickr.com/65535/53640045089_c02bd30212_b.jpg" width="473" height="1024" alt="IMG_7427"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Premiers contacts
 
