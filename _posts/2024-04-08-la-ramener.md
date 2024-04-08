@@ -16,6 +16,6 @@ Je me lançais donc dans un périple sur un week-end au volant d'un camion porte
 
 ## Budget
 
-![IMG_7534.jpg]({{site.baseurl}}/images/IMG_7534.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pierregiraud/53639259552/in/album-72177720315383307/" title="Sans titre"><img src="https://live.staticflickr.com/65535/53639259552_58d87d808f_b.jpg" width="1024" height="768" alt="Sans titre"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Bilan des courses : la location, le carburant, et le péage m'auront coûté 1481 €.
