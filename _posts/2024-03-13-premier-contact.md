@@ -4,7 +4,7 @@ Voilà comment tout a commencé.
 
 Le 11 mars 2024 peu après mon anniversaire, je tombe sur une annonce sur le bon coin. L'annonce me plait.
 
-<img src="{{site.baseurl}}/images/IMG_7427.jpg" class="img-fluid" />
+<img src="{{site.baseurl}}/images/IMG_7427.jpg" class="img-fluid" width="400px"/>
 
 ## Premiers contacts
 
