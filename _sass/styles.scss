@@ -1,6 +1,76 @@
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
 
+#mainNav {
+  background-color: #868d6acc;
+  color: white !important;
+
+  &.is-fixed {
+    background-color: #868d6a;
+    border-bottom: 1px solid black;
+  }
+}
+
 .container img {
   max-width: 100%; 
   box-shadow: 1px 1px 4px #ccc;
+}
+
+#mainNav {
+    .navbar-brand {
+        color: $gray-900;
+    }
+
+    .navbar-toggler {
+        color: $gray-900;
+    }
+
+    @media only screen and (min-width: 992px) {
+        .navbar-brand {
+            color: $gray-900;
+
+            &:focus,
+            &:hover {
+                color: fade-out($gray-900, .2);
+            }
+        }
+
+        .navbar-nav {
+            >li.nav-item {
+                >a {
+                    color: $gray-900;
+
+                    &:focus,
+                    &:hover {
+                        color: fade-out($gray-900, .2);
+                    }
+                }
+            }
+        }
+    }
+
+    @media only screen and (min-width: 992px) {
+        &.is-fixed {
+            .navbar-brand {
+                color: $gray-900;
+
+                &:focus,
+                &:hover {
+                    color: fade-out($gray-900, .2);
+                }
+            }
+
+            .navbar-nav {
+                >li.nav-item {
+                    >a {
+                        color: $gray-900;
+
+                        &:focus,
+                        &:hover {
+                            color: fade-out($gray-900, .2);
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
