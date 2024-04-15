@@ -1,4 +1,31 @@
-title: Reed Green Oval Window Ragtop
+name: Reed Green Oval Window Ragtop
 description: Ovale découvrable Reed Green de Février 1956
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: wowthemesnet/mediumish-theme-jekyll 
 author: Pierre GIRAUD
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - wowthemesnet/mediumish-theme-jekyll
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+
+include: ["_pages"]
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

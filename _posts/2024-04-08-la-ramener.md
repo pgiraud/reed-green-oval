@@ -1,6 +1,6 @@
 ---
 title: Finaliser l'achat et la rappatrier
-background: /images/IMG_7505.jpg
+image: assets/images/IMG_7505.jpg
 ---
 ## Finaliser l'achat
 
