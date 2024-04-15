@@ -5,6 +5,7 @@ author: Pierre GIRAUD
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 permalink: /:year/:month/:day/:title/
+disqus: 'reedgreen'
 
 plugins:
   - wowthemesnet/mediumish-theme-jekyll
